@@ -1,4 +1,8 @@
-# How to reproduce
+# Issue 2582
+
+Produce issue [Makie.jl #2582](https://github.com/MakieOrg/Makie.jl/issues/2582).
+
+## How to reproduce
 
 Run
 ```julia
